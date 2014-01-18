@@ -1,0 +1,14 @@
+.header_watermark { 
+    color:white;
+    position:relative;
+    top:100px;
+    left:20px;
+    background-color:black;
+    z-index:100;
+    padding:10px;
+    width:400px;
+}
+
+h6 {
+    font-size:20px;
+}
