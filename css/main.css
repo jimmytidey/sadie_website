@@ -1,14 +1,54 @@
-.header_watermark { 
-    color:white;
-    position:relative;
-    top:100px;
-    left:20px;
-    background-color:black;
-    z-index:100;
-    padding:10px;
-    width:400px;
+body { 
+    padding-top:5px;   
+}
+.main_header { 
+    margin-bottom:20px;   
 }
 
-h6 {
-    font-size:20px;
+.image_under_text { 
+    /* this is just technical thing to make the image under text work */
+    position:relative;
 }
+
+.text_that_goes_on_image {
+    font-size:20px;
+    position:absolute;
+    top:30px;
+    background-color:rgba(255,255,255,0.8);
+    padding:30px;
+    margin-left:20px;
+    margin-right:40px;
+}
+
+.main_image { 
+    width:100%;   
+}
+
+
+.selected_mode { 
+    color:#2A6496;
+    background-color:#e8e8e8;
+}
+
+
+.header_community_mode, .header_organise_mode { 
+    display:none;    
+}
+
+.frame_for_animation { 
+    overflow:hidden;
+}
+.mode_header { 
+    
+    height:434px;
+    
+}
+
+.frame_for_animation { 
+    
+    height:435px;
+    
+}
+
+
+
