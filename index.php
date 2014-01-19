@@ -1,3 +1,14 @@
+<!-- 
+
+HOW TO PUBLISH THIS WEBSITE 
+
+1) Go to the terminal window at the bottom and type 'deploy' [without the quotes]
+2) Click the balloon icon on the top left of the screen
+3) Click the 'Sadie' button
+4) Click yes! 
+
+--> 
+
 <?php include("header.php")  ?>
 
 
@@ -50,7 +61,8 @@
     </div>
     
     <div class='row'>
-        <div c;a
+   
+    </div>
     
     
     
