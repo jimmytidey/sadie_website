@@ -1,11 +1,16 @@
 <!-- 
 
 HOW TO PUBLISH THIS WEBSITE 
-
 1) Go to the terminal window at the bottom and type 'deploy' [without the quotes]
 2) Click the balloon icon on the top left of the screen
 3) Click the 'Sadie' button
 4) Click yes! 
+5) Go to http://sadie.herokuapp.com/
+
+HOW TO PREVIEW 
+1) Make sure you are looking at this file 
+2) Press the Run button with the green arrow next to it
+3) Go to https://sadie_portfolio-c9-jimmytidey.c9.io/index.php
 
 --> 
 
