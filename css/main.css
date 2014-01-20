@@ -5,6 +5,11 @@ body {
     margin-bottom:20px;   
 }
 
+.main_header a {
+    color:#f98d4b;    
+}
+
+
 .image_under_text { 
     /* this is just technical thing to make the image under text work */
     position:relative;
@@ -49,6 +54,26 @@ body {
     height:435px;
     
 }
+
+
+/* all work page */
+
+.work-item { 
+    margin-bottom:10px;
+}
+
+.work-item img {
+    width:100%;
+}
+
+.work-item h2 { 
+    margin-top:0px;   
+}
+
+
+
+
+
 
 
 

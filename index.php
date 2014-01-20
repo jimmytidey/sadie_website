@@ -15,21 +15,6 @@ HOW TO PREVIEW
 --> 
 
 <?php include("header.php")  ?>
-
-
-
-<div class='container'> 
-    
-    <div class='row'>
-        <div class='col-md-4 col-md-offset-8'> 
-            <ul class="nav nav-pills nav-justified">
-              <li class="active"><a href="#">All work</a></li>
-              <li><a href="#">Blog</a></li>
-              <li><a href="#">CV</a></li>
-              <li><a href="#">Twitter</a></li>
-            </ul>
-        </div>    
-    </div>
     
     <div class='row'>
         <div class='col-md-12'> 
@@ -43,19 +28,23 @@ HOW TO PREVIEW
     
     <div class='row image_under_text'>
         <div class='col-md-12 frame_for_animation'>
+        
+            <!-- Art    -->
             <div class='header_artist_mode mode_header mode_header_open'>
-                <p class='text_that_goes_on_image col-md-6'>'Weaving Bankers' Outside Departure Foundation, Monument, London. Part of my investigation of using human bodies as a material.</p>
+                <p class='text_that_goes_on_image col-md-6'>'<a href=''>Weaving Bankers</a>', looking at X. Sadie Edginton is an artist looking at social situations. With a grounding in sculpture, she uses materials and modes of communication to persuade different levels of participation, questioning the audience/ volunteer divide to manipulate the viewer.I've also done <a href=''>Y</a> and <a href=''>Z</a>.</p>
     
                 <img class='main_image'  src='images/weaving_bankers_crop.jpg' />
             </div>
             
             
+            <!-- Community    -->
             <div class='header_community_mode mode_header'>
-                <p class='text_that_goes_on_image col-md-6'>Communuity </p>
+                <p class='text_that_goes_on_image col-md-6'>Community</p>
     
                 <img class='main_image'  src='images/weaving_bankers_crop.jpg' />
             </div>
             
+            <!-- Organising --> 
             <div class='header_organise_mode mode_header'>
                 <p class='text_that_goes_on_image col-md-6'>Organising events </p>
     
