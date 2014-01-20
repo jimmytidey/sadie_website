@@ -34,7 +34,7 @@ HOW TO PREVIEW
     <div class='row'>
         <div class='col-md-12'> 
             <h1 class='main_header'>
-                I'm Sadie. I'm a <a data-mode='artist' class='selected_mode'>practising artist</a>. I also work on <a data-mode='community' class='community_mode' >community projects</a> and <a data-mode='organise'  class='organise_mode' >organise events</a>.   
+                I'm Sadie Edginton? I'm a <a data-mode='artist' class='selected_mode'>practising artist</a>. I also work on <a data-mode='community' class='community_mode' >community projects</a> and <a data-mode='organise'  class='organise_mode' >organise events</a>.   
             </h1>
         </div>
     </div>
