@@ -45,7 +45,7 @@
 <!-- row of work description -->
 <div class='row work-item'> 
     <div class='col-md-4'>
-        <img src='images/nav-warm-up.jpg' class='all-work-image' />
+        <img src='images/Xmas wrapping. low res_600.jpg' class='all-work-image' />
     </div>
     
     <div class='col-md-8'>
