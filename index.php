@@ -20,8 +20,9 @@ HOW TO PREVIEW
         <div class='col-md-12'> 
             <h1 class='main_header'>
                 Sadie Edginton. 
-                Artist. Education. Social. Performance.  I'm an<a data-mode='artist' class='selected_mode'>artist</a>. 
-                I also work on <a data-mode='community' class='community_mode' >projects</a> and <a data-mode='organise'  class='organise_mode' >organise events, exhibitions and workshops</a>.   
+                I'm an <a data-mode='artist' class='selected_mode'>artist</a>. 
+                I also work on <a data-mode='community' class='community_mode' >projects</a> and 
+                <a data-mode='organise'  class='organise_mode' >organise events, exhibitions and workshops</a>.   
             </h1>
         </div>
     </div>
@@ -33,7 +34,11 @@ HOW TO PREVIEW
         
             <!-- Art    -->
             <div class='header_artist_mode mode_header mode_header_open'>
-                <p class='text_that_goes_on_image col-md-6'>Image from <a href=''>'Weaving Bankers'</a>. I manipulate materials and situations. Using forms of communication, whether through props, materials and hinting to questioning the audience/ volunteer divide. In 2013 I co-founded <a href=''>NAVIGATE</a> (workshop and performance collective)and work with<a href=''>Hackney WickED DEVELOPMENT</a>and <a href=''>AltMFA</a>.</p>
+                <p class='text_that_goes_on_image col-md-6'><i>Image from <a href=''>'Weaving Bankers'</a><i>. 
+                I manipulate materials and situations. Using forms of communication, whether through  
+                props or hints, questioning the audience / volunteer / sculpture / performer divide. In 2013 I co-founded 
+                <a href=''>NAVIGATE</a> (workshop and performance collective) and have worked with <a href=''>exchange projects</a> for <a href=''>Hackney 
+                WickED DEVELOPMENT</a>and <a href=''>AltMFA</a>.</p>
     
                 <img class='main_image'  src='images/weaving_bankers_crop.jpg' />
             </div>
