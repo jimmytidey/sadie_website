@@ -33,6 +33,7 @@
         <div class='col-md-4 col-md-offset-8'> 
             <ul class="nav nav-pills nav-justified">
               <li><a href="index.php">Home</a></li>
+              <li><a href="Contact.php">Contact</a></li>
               <li><a href="all-work.php">All work</a></li>
               <li><a href="http://sadiesprojects.blogspot.co.uk/" target='_blank'>Blog</a></li>
               <li><a href="CV.php">CV</a></li>
