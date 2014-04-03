@@ -19,7 +19,9 @@ HOW TO PREVIEW
     <div class='row'>
         <div class='col-md-12'> 
             <h1 class='main_header'>
-                Sadie Edginton. Artist. Education. Social. Performance.  I'm a <a data-mode='artist' class='selected_mode'>artist practice</a>. I also work on <a data-mode='community' class='community_mode' >projects</a> and <a data-mode='organise'  class='organise_mode' >organise events, exhibitions and workshops</a>.   
+                Sadie Edginton. 
+                Artist. Education. Social. Performance.  I'm a <a data-mode='artist' class='selected_mode'>practicing artist</a>. 
+                I also work on <a data-mode='community' class='community_mode' >projects</a> and <a data-mode='organise'  class='organise_mode' >organise events, exhibitions and workshops</a>.   
             </h1>
         </div>
     </div>
@@ -31,7 +33,7 @@ HOW TO PREVIEW
         
             <!-- Art    -->
             <div class='header_artist_mode mode_header mode_header_open'>
-                <p class='text_that_goes_on_image col-md-6'>'Image from <a href=''>Weaving Bankers</a>'. I manipulate materials, situations and people. I use materials and modes of communication to persuade different levels of participation, questioning the audience/ volunteer divide to manipulate the viewer.I've also done <a href=''>Y</a> and <a href=''>Z</a>.</p>
+                <p class='text_that_goes_on_image col-md-6'>Image from <a href=''>'Weaving Bankers'</a>. I manipulate materials and situatios. I use communication to persuade different levels of participation, questioning the audience/ volunteer divide. I also co-founded <a href=''>NAVIGATE</a> and <a href=''>work with Hackney WickED DEVELOPMENT</a>.</p>
     
                 <img class='main_image'  src='images/weaving_bankers_crop.jpg' />
             </div>
