@@ -9,13 +9,15 @@
     </div>
     
     <div class='col-md-8'>
-        <h2><a href='link_to_page.php'>'Can you just hold this... as its Christmas' Still I</a></h2>
-        <p>//Exhibitions and Events
-
-2014	[Organized] NAVIGATE at V&A Lates, Hackney Wick TAKEOVER.
+        <h2><a href='link_to_page.php'>'</a>//Exhibitions and Events</h2>
+        <p>2014	[Organized] NAVIGATE at V&A Lates, Hackney Wick TAKEOVER.
+        
 [Performed] Lab451, Camden Image Gallery, London
+
 [Performed] The Shag, Studio 180, Lambeth, London
+
 2013	[Organised] NAVIGATE Publication Launch, Lucky Me, The Glass Factory, Hackney Wick.
+
 	Unperforming Finissage, Departure Foundation, Monument, London
 Unperforming Opening, Departure Foundation, Monument
 [Co-Curated with exchange projects] Yörük, Fish Island, Hackney WickED Festival 2013.
