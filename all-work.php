@@ -7,7 +7,7 @@
     </div>
     
     <div class='col-md-8'>
-        <h2><a href='link_to_page.php'>'Can you just hold this... as its Christmas' Still I</a></h2>
+        <h2><a href='work_1.php'>'Can you just hold this... as its Christmas' Still I</a></h2>
         <p>Participative performance, NAVIGATE Publication Launch, Lucky Me at the Glass Factory, Hackney Wick, London</p>
     </div>
 </div>
@@ -21,7 +21,7 @@
     </div>
     
     <div class='col-md-8'>
-        <h2><a href='link_to_page.php'>'Can you just hold this... as its Christmas' Still II</a></h2>
+        <h2><a href=''>'</a></h2>
         <p>Here is some text about this project.</p>
     </div>
 </div>

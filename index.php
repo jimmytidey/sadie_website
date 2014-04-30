@@ -35,8 +35,7 @@ HOW TO PREVIEW
             <!-- Art    -->
             <div class='header_artist_mode mode_header mode_header_open'>
                 <p class='text_that_goes_on_image col-md-6'>Image from <a href=''>'Weaving Bankers'</a>. 
-                I manipulate materials and situations. Using forms of communication, whether through  
-                props or hints, questioning the audience / volunteer / sculpture / performer divide. In 2013 I co-founded 
+                I manipulate materials and situations. Using forms of communication, questioning the audience / volunteer / sculpture / performer divide. In 2013 I co-founded 
                 <a href=''>NAVIGATE</a> (workshop and performance collective) and have work with <a href=''>exchange projects</a> for <a href=''>Hackney 
                 WickED DEVELOPMENT </a>and I'm a member of <a href=''>AltMFA</a>.</p>
     

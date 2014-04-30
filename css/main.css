@@ -6,7 +6,15 @@ body {
 }
 
 .main_header a {
-    color:#f98d4b;    
+    color:grey;    
+}
+
+a {
+    color:black;
+}
+
+a:hover {
+    color:salmon;
 }
 
 
@@ -15,8 +23,10 @@ body {
     position:relative;
 }
 
+.red_text {color:#ff0000;}
+
 .text_that_goes_on_image {
-    font-size:20px;
+    font-size:15px;
     position:absolute;
     top:30px;
     background-color:rgba(255,255,255,0.8);
@@ -27,6 +37,14 @@ body {
 
 .main_image { 
     width:100%;   
+}
+
+.work_page_image {
+    margin-top:10px;
+}
+
+img {
+   border:10px solid black; 
 }
 
 
@@ -49,8 +67,7 @@ body {
     
 }
 
-.frame_for_animation { 
-    
+.frame_for_animation {
     height:435px;
     
 }

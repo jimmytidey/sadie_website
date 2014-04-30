@@ -1,7 +1,7 @@
 <?php include("header.php")  ?>
 
 
-<h1>Email: sssade@hotmail.com</h1>
+<h3>Email: sssade@hotmail.com</h3>
 
 
 <?php include("footer.php")  ?>
