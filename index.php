@@ -18,7 +18,7 @@ HOW TO PREVIEW
     
     <div class='row'>
         <div class='col-md-12'> 
-            <h1 class='main_header'>
+            <h5 class='main_header'>
                 I'm Sadie Edginton. 
                 I'm an <a data-mode='artist' class='selected_mode'>artist</a>. 
                 I also work on <a data-mode='projects' class='community_mode' >projects</a> and 
@@ -35,10 +35,12 @@ HOW TO PREVIEW
             <!-- Art    -->
             <div class='header_artist_mode mode_header mode_header_open'>
                 <p class='text_that_goes_on_image col-md-6'>Image from <a href=''>'Weaving Bankers'</a>. 
-                I manipulate materials and situations. Using forms of communication, questioning the audience / volunteer / sculpture / performer divide. In 2013 I co-founded 
-                <a href=''>NAVIGATE</a> (workshop and performance collective) and have work with <a href=''>exchange projects</a> for <a href=''>Hackney 
-                WickED DEVELOPMENT </a>and I'm a member of <a href=''>AltMFA</a>.</p>
-    
+                I manipulate materials and situations. Using forms of communication, questioning the audience, performer divide. In 2013 I co-founded 
+                <a href='http://navigateworkshop.tumblr.com/'target="blank">NAVIGATE</a> (workshop and performance collective) and have work with <a href=''>exchange projects
+                </a> for <a href="http://www.hackneywicked.co.uk/programe/event/development-education-learning/" target="_blank">Hackney WickED DEVELOPMENT </a>and I'm a member of <a href="http://altmfa.blogspot.co.uk/"
+                target="_blank">AltMFA</a>.
+                </p> 
+
                 <img class='main_image'  src='images/weaving_bankers_crop.jpg' />
             </div>
             

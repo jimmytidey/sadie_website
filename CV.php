@@ -158,35 +158,115 @@
     <div class='col-md-10'>
         <p>Art activities at Evergreen Adventure Play Association, Dalson</p>
      </div>
+     
+</div>
+<div class='row'>
+    <div class='col-md-2'>
+        <p>2013</p>
+    </div>
+    <div class='col-md-10'>
+        <p>NAVIGATE Live Art weekend artist development workshops by artists for artists.</p>
+        <p>Yoruk with exchange projects, Forman’s Yard at Hackney WickED Festival</p>
+        <p>A Table Artist Meal Event, Arbeit Gallery, London<p>
+        <p>Autism + Me Dance and Art with Autism. Chisenhale Dance Space. London<p>
+        <p>Art for Health, Workshops and Interactive sculpture with elderly residents. Nightingale House, Clapham<p>
+     </div>
+     
+</div>
+<div class='row'>
+    <div class='col-md-2'>
+                <p>2012</p>
+    </div>
+    <div class='col-md-10'>
+                <p>City Arts London Peace wall Mural Youth Project, CityArts, London</p>
+                </p>Environmental and Community Projects Volunteer, Kok Payom, Thailand</p>
+     </div>
+</div>
+<div class='row'>
+    <div class='col-md-2'>
+                <p>2011</p>
+                </div>
+                <div class='col-md-10'>
+                    </p>Resident Artist (July to September), co-ran exchange project space, Unit 14, Queens Yard, Hackey Wick</p>
+                    </p>Brunch Discussion Hackney Wick Community Festival</p>
+                    </p>Dysarticulate National Art Project. BP Olympics Art Programme</p>
+                    </p>‘Sign Painting’ participative project, for Hackney Wick Community Festival weekend.</p>
+                    </p>Temporary Tattoos Participative Performance, Copperdollar tent, Glastonbury Festival</p>
+            </div>
 </div>
 
+<div class='row'>
+    <div class='col-md-2'>
+                <p>2010<p/>
+                </div>
+                <div class='col-md-10'>
+                    </p>Art Tattoo Parlour Hackney WickED Festival</p>
+            </div>
+            </div>
+            
+<div class='row'>
+    <div class='col-md-12'>
+        <h3>Residencies/ Weekenders/ Training Workshops</h3>
+    </div>
+    </div>  
+    
+<div class='row'>
+    <div class='col-md-2'>
+                <p>2014</p>
+            </div>
+    <div class='col-md-10'>
+                    </p>Writing Successful Bids Training Day, Voluntary Action Waltham Forest</p>
+                    </p>Ellie Stamp; Immersive Performance and Mental Health workshop. Ideas Store, Whitechapel</p>
+                    </p>Arts Admin: Sweatshop on Finance</p>
+                    </div>
+            </div>
 
-2014 
-2013 NAVIGATE Live Art weekend artist development workshops by artists for artists.
-Yoruk with exchange projects, Forman’s Yard at Hackney WickED Festival
-A Table Artist Meal Event, Arbeit Gallery, London
-Autism + Me Dance and Art with Autism. Chisenhale Dance Space. London
-Art for Health, Workshops and Interactive sculpture with elderly residents. Nightingale House, Clapham
-2012 
-City Arts London Peace wall Mural Youth Project, CityArts, London
-Environmental and Community Projects Volunteer, Kok Payom, Thailand
-2011 
-July- September Community Resident Artist and helped run exchange project space, Unit 14, Queens Yard, Hackey Wick
-Brunch Discussion Hackney Wick Community Festival
-Dysarticulate National Art Project. BP Olympics Art Programme
-‘Sign Painting’ participative workshop, Hackney Wick Community Festival.
-Temporary Tattoos Participative Performance, Copperdollar tent, Glastonbury Festival
-2010 Art Tattoo Parlour Hackney WickED Festival
+<div class='row'>
+    <div class='col-md-2'>
+                <p>2013</p>
+    </div>
+    <div class='col-md-10'>
+            </p>‘Madness, Sanity and Gentrification’ Weekend workshop by Andre Verissimo, Performance Space, Hackney Wick, London</p>
+            </p>‘Doing things without an Aim’ Weekend workshop by Yard House Collective from RCA Sculpture, Hackney Wick, London</p>
+            </p>DIY 10 ‘Farplayer’ with Ansuman Biswas, 4 day weekend in Cornwall, UK</p>
+            </p>Resident Artist for April and May ‘Art for Health’ Nightingale House, Clapham, London, UK</p>
+        </div>
+    </div>
+            
+<div class='row'>
+    <div class='col-md-2'>
+                <p>2012</p>
+    </div>
+    <div class='col-md-10'>
+            </p>Three month Voluntary Creative and Environmental Volunteer, Kok Payom Village, Thailand.</p>
+            </div>
+                        </div>
+<div class='row'>
+    <div class='col-md-2'>
+                <p>2011</p>
+    </div>
+    <div class='col-md-10'>
+            </p>Hackney WickED and Hackney Wick Community Festival, Resident Community Artist, UK</p>
+            </div>
+</div>
 
-Residencies/ Weekenders
-2013
-‘Madness, Sanity and Gentrification’ Weekend workshop by Andre Verissimo, Performance Space, Hackney Wick, London
-‘Doing things without an Aim’ Weekend workshop by Yard House Collective from RCA Sculpture, Hackney Wick, London
-DIY 10 ‘Farplayer’ with Ansuman Biswas, Cornwall, UK
-‘Art for Health’ Nightingale House, Clapham, London, UK
-2011 Hackney WickED and Hackney Wick Community Festival, Resident Community Artist, UK
-2010 Residency within a residency, Sculpture Space, Utica, USA
-2006 Flat Time House, Peckham, London, Residency, UK 
+<div class='row'>
+    <div class='col-md-2'>
+                <p>2010</p>
+    </div>
+    <div class='col-md-10'>
+            </p>Mini Residency within a residency, Sculpture Space, Utica, USA</p>
+            </div>
+</div>
+
+<div class='row'>
+    <div class='col-md-2'>
+                <p>2006</p>
+    </div>
+    <div class='col-md-10'>
+            </p>Flat Time House, Peckham, London, Residency, UK </p>
+ </div>
+
 
 Publications
 2013 Self-published with NAVIGATE group in ‘NAVIGATE Book 1’. Printed by Imprint, Devon.
